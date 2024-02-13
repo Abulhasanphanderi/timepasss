@@ -1,0 +1,22 @@
+body{
+    background-color: yellowgreen;
+    margin: 0%;
+    padding: 0%;
+}
+.abu{
+    height: 100px;
+    width: 1400px;
+    color: red;
+    position: relative;
+    background-color: blue;
+   // padding: auto;
+    
+}
+.jio{
+    display: inline;
+}
+image{
+    height: 500px;
+    width: 300px;
+
+}
